@@ -42,7 +42,7 @@ nav div:nth-child(3) div {
 }
 
 #card {
-    width: 20vw;
+    width: 300px;
     border-radius: 100px;
     overflow: hidden;
     background-color: #fbf7e3;
